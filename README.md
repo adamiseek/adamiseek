@@ -19,7 +19,7 @@ $ status --check
 ## What I'm working on
 
 - **Portfolio** — this site, hand-built in plain HTML/CSS/JS → [adamiseek.github.io](https://adamiseek.github.io)
-- **AI Experiments** — small LLM/agent tools; currently a study app that turns notes into flashcards
+- **studydeck** — paste notes, get flashcards, study with spaced repetition, all in the browser → [github.com/adamiseek/studydeck](https://github.com/adamiseek/studydeck)
 - **Automation Toolkit** — scripts for backups, monitoring, deploys, and health checks
 - **Offensive Lab** — a home lab where I exploit targets, then patch the same box
 
