@@ -16,12 +16,12 @@ $ status --check
 [ OK ] open to new work
 ```
 
-## What I'm working on
+## Featured projects
 
-- **Portfolio** — this site, hand-built in plain HTML/CSS/JS → [adamiseek.github.io](https://adamiseek.github.io)
-- **studydeck** — paste notes, get flashcards, study with spaced repetition, all in the browser → [github.com/adamiseek/studydeck](https://github.com/adamiseek/studydeck)
-- **Automation Toolkit** — scripts for backups, monitoring, deploys, and health checks
-- **Offensive Lab** — a home lab where I exploit targets, then patch the same box
+- **logguard** — server log triage: flags SSH brute force, compromise signals, and web scanners → [github.com/adamiseek/logguard](https://github.com/adamiseek/logguard)
+- **writeupforge** — CTF notes → structured markdown writeups with flag tracking → [github.com/adamiseek/writeupforge](https://github.com/adamiseek/writeupforge)
+- **subscout** — keyless passive subdomain discovery (crt.sh, OTX, more) → [github.com/adamiseek/subscout](https://github.com/adamiseek/subscout)
+- **studydeck** — notes → flashcards with spaced repetition, all in the browser → [github.com/adamiseek/studydeck](https://github.com/adamiseek/studydeck)
 
 ## Toolbox
 
