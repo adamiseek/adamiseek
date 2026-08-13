@@ -19,7 +19,7 @@ $ status --check
 ## Featured projects
 
 - **logguard** — server log triage: flags SSH brute force, compromise signals, and web scanners → [github.com/adamiseek/logguard](https://github.com/adamiseek/logguard)
-- **pathfinder** — wordlist-free directory discovery: crawls the target to build its own wordlist → [github.com/adamiseek/pathfinder](https://github.com/adamiseek/pathfinder)
+- **reconspider** — wordlist-free web recon + vuln scanner: directory discovery, XSS/SQLi detection, port scanning, tech fingerprinting → [github.com/adamiseek/reconspider](https://github.com/adamiseek/reconspider)
 - **writeupforge** — CTF notes → structured markdown writeups with flag tracking → [github.com/adamiseek/writeupforge](https://github.com/adamiseek/writeupforge)
 - **subscout** — keyless passive subdomain discovery (crt.sh, OTX, more) → [github.com/adamiseek/subscout](https://github.com/adamiseek/subscout)
 - **studydeck** — notes → flashcards with spaced repetition, all in the browser → [github.com/adamiseek/studydeck](https://github.com/adamiseek/studydeck)
